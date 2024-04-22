@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdotorium&show_icons=true&locale=en&layout=donut" alt="valdotorium" />
 
-&nbsp;<img align="right" src="https://streak-stats.demolab.com?user=Valdotorium&theme=vue-dark" alt="valdotorium" /></p>
+<img align="right" src="https://streak-stats.demolab.com?user=Valdotorium&theme=vue-dark" alt="valdotorium" /></p>
 
 
