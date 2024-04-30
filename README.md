@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> </p>
 
-- 🔭 I’m currently working on [my Website](https://github.com/Valdotorium/Website)
+- 🔭 A simple [flappy bird clone](https://github.com/Valdotorium/Go-Bird-) using Go.
 
 - 🌱 I’m currently learning **The Go programming language and building Websites**
 
