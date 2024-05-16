@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Valdotorium</h1>
-<h3 align="center">trying to get good at programming.</h3>
+<h3 align="center">I like computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> </p>
 
-- 🔭 A simple [flappy bird clone](https://github.com/Valdotorium/Go-Bird-) using Go.
+- 🔭 I am currently working on A simple [dinosaur game clone](https://github.com/Valdotorium/Go-Bird-) using Go.
 
-- 🌱 I’m currently learning **The Go programming language and building Websites**
+- ⌨️ And **my own programming language** designed for a minecraft redstone processor(not public yet)
 
-- 📊 And a data visualisation website **VStats (not public yet)**
+- 🌱 I’m currently learning **The Go programming language and how CPUs work**
 
 - 🤝 I’m looking for help with [designing websites](https://github.com/Valdotorium/Website)
 
-- ✅ My most recent big project: [https://github.com/Valdotorium/PyKart](https://github.com/Valdotorium/PyKart)
+- ✅ My most recent big project: [A CSV table visualisation website](https://valdotorium.github.io/GFS/)
 
 - 💬 Ask me about **pygame and python development**
 
