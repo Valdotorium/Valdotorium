@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on A simple [dinosaur game clone](https://github.com/Valdotorium/Go-Bird-) using Go.
 
-- ⌨️ And **my own programming language** designed for a minecraft redstone processor(not public yet)
+- ⌨️ And on redesigning [my Website](https://valdotorium.github.io/Website/).
 
 - 🌱 I’m currently learning **The Go programming language and how CPUs work**
 
@@ -13,7 +13,7 @@
 
 - ✅ My most recent big project: [A CSV table visualisation website](https://valdotorium.github.io/GFS/)
 
-- 💬 Ask me about **pygame and python development**
+- 💬 Ask me about **Pygame and Python development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img width="300" height ="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdotorium&show_icons=true&locale=en&layout=donut" alt="valdotorium" /><img width="500" height ="400" align="left" src="https://wakatime.com/share/@018f06ff-39df-4391-9ba5-5fb7abc2a8cd/9648a897-8c19-4f9b-9475-d6f4f9edf86d.svg"></p>
+<p><img width="300" height ="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdotorium&show_icons=true&locale=en&layout=donut" alt="valdotorium" /></p>
 
 
 
