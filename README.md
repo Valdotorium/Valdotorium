@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valdotorium</h1>
 <h3 align="center">I like computer science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=valdotorium.valdotorium" alt = "profile visitor count" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> </p>
 
 
 - 🔭 I am currently working on A simple [dinosaur game clone](https://github.com/Valdotorium/Go-Bird-) using Go.
