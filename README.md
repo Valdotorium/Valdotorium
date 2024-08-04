@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<img width="640" src="https://wakatime.com/share/@018f06ff-39df-4391-9ba5-5fb7abc2a8cd/3dd437b4-0c8a-4899-9726-d1b67227ca46.svg"/>
+<img src="https://wakatime.com/badge/user/018f06ff-39df-4391-9ba5-5fb7abc2a8cd.svg">
+<img width="640" src="https://wakatime.com/share/@018f06ff-39df-4391-9ba5-5fb7abc2a8cd/461c36a4-e953-4887-8c7b-77844cf9b16f.svg">
 
 
 
