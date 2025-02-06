@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Valdotorium</h1>
+<h1 align="center">Hi, I'm Valdotorium</h1>
 <h3 align="center">I like computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> </p>
 
 
-- 🔭 I am currently working on A simple [dinosaur game clone](https://github.com/Valdotorium/Go-Bird-) using Go.
+- 🔭 I am currently working on A simple [base converter tool](https://github.com/Valdotorium/numbers-converter) using Go.
 
-- ⌨️ And on redesigning [my Website](https://valdotorium.github.io/Website/).
+- ⌨️ And on redesigning [my Website](https://valdotorium.github.io/).
 
-- 🌱 I’m currently learning **The Go programming language and how CPUs work**
+- 🌱 I’m currently learning **Cross platform development with Javascript and how CPUs work**
 
 - 🤝 I’m looking for help with [designing websites](https://github.com/Valdotorium/Website)
 
