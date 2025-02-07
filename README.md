@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cross platform development with Javascript and how CPUs work**
 
-- 🤝 I’m looking for help with [designing websites](https://github.com/Valdotorium/Website)
+- 🤝 I’m looking for help with [finding a lightweight and simple cross-platform development framework](https://github.com/Valdotorium/Website)
 
 - ✅ My most recent big project: [A CSV table visualisation website](https://valdotorium.github.io/GFS/)
 
