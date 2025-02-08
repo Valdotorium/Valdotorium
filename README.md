@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> </p>
 
 
-- 🔭 I am currently working on A simple [base converter tool](https://github.com/Valdotorium/numbers-converter) using Go.
+- 🔭 I am currently working on A simple [base converter tool](https://github.com/Valdotorium/numbers-converter) using Js.
 
 - ⌨️ And on redesigning [my Website](https://valdotorium.github.io/).
 
