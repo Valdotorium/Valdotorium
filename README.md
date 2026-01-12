@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdotorium&label=Profile%20views&color=0e75b6&style=flat" alt="valdotorium" /> </p>
 
 
-I am Valdotorium, a hobbyist-programmer who is also interested in drumming, drawing, cities and transport infrastructure.
+hi, i'm a hobbyist-programmer who is also interested in drumming, drawing, cities and transport infrastructure.
 Ypu can find out more about me and my projects on [my Website](https://valdotorium.github.io)
 
 - 🎮 I have also published a game on itch.io: [PyKart](https://valdotorium.itch.io/pykart)
